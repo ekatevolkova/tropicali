@@ -9,7 +9,9 @@
     "urix": "^0.1.0"
   },
   "devDependencies": {
-    "gulp": "^4.0.2"
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0",
+    "node-sass": "^4.14.1"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
