@@ -1,0 +1,27 @@
+{
+  "name": "tropicali",
+  "version": "1.0.0",
+  "description": "Website for a new restaurant",
+  "main": "index.js",
+  "dependencies": {
+    "resolve-url": "^0.2.1",
+    "source-map-resolve": "^0.6.0",
+    "urix": "^0.1.0"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ekatevolkova/tropicali.git"
+  },
+  "author": "Ekaterina Volkova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ekatevolkova/tropicali/issues"
+  },
+  "homepage": "https://github.com/ekatevolkova/tropicali#readme"
+}
